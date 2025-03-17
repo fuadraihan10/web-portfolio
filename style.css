@@ -41,3 +41,25 @@ p{
     color: #ffffff;
     background: linear-gradient(45deg, #ffa500, #ff6347);
 }
+#full-stack, #baby-web{
+    height: 80%;
+    box-shadow: 0px 0px 20px 3px gray;
+    border-radius: 5px;
+}
+.experience-area{
+    background: url("../images/exp-bg.png") no-repeat left;
+    height: 600px;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, #ffa500, #ff6347);
+    border-image-slice: 1;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, #0000ff, #00ffff);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
+}
