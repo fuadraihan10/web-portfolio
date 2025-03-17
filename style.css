@@ -8,10 +8,10 @@ section{
     height: 760px;
 }
 .top-banner{
-    background: url("../images/top-banner.png") no-repeat;
+    background: url("/images/top-banner.png") no-repeat;
 }
 .dream-area{
-    background: url("../images/dream-bg.png") no-repeat right;
+    background: url("/images/dream-bg.png") no-repeat right;
 }
 h1{
     font-size: 50px;
